@@ -1,63 +1,104 @@
 {
   "images" : [
     {
+      "size" : "20x20",
       "idiom" : "iphone",
-      "size" : "29x29",
+      "filename" : "bort40x40.png",
       "scale" : "2x"
     },
     {
+      "size" : "20x20",
       "idiom" : "iphone",
-      "size" : "29x29",
+      "filename" : "bort60x60.png",
       "scale" : "3x"
     },
     {
+      "size" : "29x29",
       "idiom" : "iphone",
-      "size" : "40x40",
+      "filename" : "bort58x58.png",
       "scale" : "2x"
     },
     {
+      "size" : "29x29",
       "idiom" : "iphone",
-      "size" : "40x40",
+      "filename" : "bort87x87.png",
       "scale" : "3x"
     },
     {
+      "size" : "40x40",
       "idiom" : "iphone",
+      "filename" : "bort40x40-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "bort60x60-1.png",
+      "scale" : "3x"
+    },
+    {
       "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "bort120x120.png",
       "scale" : "2x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "bort180x180.png",
       "scale" : "3x"
     },
     {
+      "size" : "20x20",
       "idiom" : "ipad",
-      "size" : "29x29",
+      "filename" : "bort20x20.png",
       "scale" : "1x"
     },
     {
+      "size" : "20x20",
       "idiom" : "ipad",
+      "filename" : "bort40x40-2.png",
+      "scale" : "2x"
+    },
+    {
       "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "bort29x29.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "bort58x58-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "bort40x40-3.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "bort80x80.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "bort76x76.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "bort152x152.png",
       "scale" : "2x"
     },
     {
       "idiom" : "ipad",
-      "size" : "40x40",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "ipad",
-      "size" : "40x40",
-      "scale" : "2x"
-    },
-    {
-      "idiom" : "ipad",
-      "size" : "76x76",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "ipad",
-      "size" : "76x76",
+      "size" : "83.5x83.5",
       "scale" : "2x"
     }
   ],

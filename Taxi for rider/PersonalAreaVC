@@ -1,0 +1,14 @@
+//
+//  PersonalAreaVC.swift
+//  Taxi for rider
+//
+//  Created by Chingis on 24.06.17.
+//  Copyright © 2017 Chingis. All rights reserved.
+//
+
+import UIKit
+import FirebaseAuth
+import FirebaseDatabase
+
+class PAEditView: UIViewController {
+}
